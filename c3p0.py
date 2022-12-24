@@ -42,7 +42,8 @@ if newInput == "y":
 else:
     callOff = False
     print("Your loss bud. ¯\_(!_!)_/¯")
+   
 #start new cmd and print the best tik toker of all time 
 while callOff == False:
-    run = "start cmd /K echo I love undertime slopper"
+    run = "start cmd /K echo I love undertime slopper" #Feel free to edit the undertime slopper part to whatever you desire :)
     os.system(run)
